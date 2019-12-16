@@ -2,7 +2,6 @@
 Sign language to English words app for deaf learners to help with literacy skills
 
 # User Stories
-
 As a deaf student I want to sign to sign into my phone camera to find the English written word so that I can use it in my homework. 
 
 As a deaf student I want to check how to spell a word.
@@ -20,5 +19,4 @@ As a young person in North London I want to build up some colloquial signs to sh
 As a professional programmer I want to create a set of standard signs to represent different of  coding terminology to communicate more effectively with my team.
 
 # Product Client Brief
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lPqQttapwRk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/lPqQttapwRk
